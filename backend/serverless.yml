@@ -29,7 +29,6 @@ provider:
     TODOS_CREATED_AT_INDEX: CreatedAtIndex
     ATTACHMENT_S3_BUCKET: serverless-tungvs6-${self:provider.stage}
     SIGNED_URL_EXPIRATION: 3000
-    AUTH_0_SECRET_ID: 64Lz6DPPcljwwW5Fmr1yGj5flL5l2Gwv_-bPT6emoqrQ5VywqS1AZ97rdysf68FJ
 
   logs:
     # Enable API Gateway logs
